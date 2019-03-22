@@ -150,8 +150,8 @@
             <GameDBLocalizedString>      <LocID>SYM_HALLUCINATION_DESCRIPTION</LocID>                       <Text>Lebhafte, beträchtliche Visualisierungen ohne echten Stimulus.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HAND_PAIN</LocID>                                       <Text>Handschmerzen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HAND_PAIN_DESCRIPTION</LocID>                           <Text>Schmerzhaftes Gefühl in der Hand.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HAND_WEAKNESS</LocID>                                   <Text>Handschwäche</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HAND_WEAKNESS_DESCRIPTION</LocID>                       <Text>Schwacher Händedruck und Bewegungseinschränkung.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_WEAKNESS</LocID>                                   <Text>Kraftminderung Hand</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HAND_WEAKNESS_DESCRIPTION</LocID>                       <Text>Schwacher Händedruck und Bewegungseinschränkung als Zeichen einer Kraftminderung in der Hand</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HARMFUL_ANTIBODIES</LocID>                              <Text>Schädliche Antikörper</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HARMFUL_ANTIBODIES_DESCRIPTION</LocID>                  <Text>Vorhandensein von schädlichen Antikörpern, die verschiedene Systeme im Körper angreifen.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEAD_TRAUMA</LocID>                                     <Text>Schädeltrauma</Text>  </GameDBLocalizedString>
@@ -169,7 +169,7 @@
             <GameDBLocalizedString>      <LocID>SYM_HEMATURIA</LocID>                                       <Text>Hämaturie</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEMATURIA_DESCRIPTION</LocID>                           <Text>Blut im Urin.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS</LocID>                                     <Text>Hemiparese</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS_DESCRIPTION</LocID>                         <Text>Schwäche in einer gesamten Körperhälfte.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_HEMIPARESIS_DESCRIPTION</LocID>                         <Text>Lähmung in einer gesamten Körperhälfte.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEMOGLOBIN_LOW</LocID>                                  <Text>Hämoglobinmangel</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEMOGLOBIN_LOW_DESCRIPTION</LocID>                      <Text>Niedriger Gehalt von Hämoglobin im Blut.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_HEMOPTYSIS</LocID>                                      <Text>Hämoptyse</Text>  </GameDBLocalizedString>
@@ -285,7 +285,7 @@
             <GameDBLocalizedString>      <LocID>SYM_MUSCLE_PAIN</LocID>                                     <Text>Muskelschmerzen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MUSCLE_PAIN_DESCRIPTION</LocID>                         <Text>Schmerzhaftes Gefühl in den Muskeln.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_MUSCLE_WEAKNESS</LocID>                                 <Text>Muskelschwäche</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_MUSCLE_WEAKNESS_DESCRIPTION</LocID>                     <Text>Schwäche eines Muskels während der Kontraktion.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_MUSCLE_WEAKNESS_DESCRIPTION</LocID>                     <Text>Kraftminderung eines Muskels während der Kontraktion.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NAIL_DISCOLORATION</LocID>                              <Text>Nagelverfärbung</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NAIL_DISCOLORATION_DESCRIPTION</LocID>                  <Text>Veränderung der gesunden Farbe der Nägel zu dunklen oder weißen Streifen oder einer kompletten Verfärbung.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_NASAL_CONGESTION</LocID>                                <Text>Verstopfte Nase</Text>  </GameDBLocalizedString>
@@ -311,9 +311,9 @@
             <GameDBLocalizedString>      <LocID>SYM_OPEN_WOUND</LocID>                                      <Text>Offene Wunde</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OPEN_WOUND_DESCRIPTION</LocID>                          <Text>Eine offene Wunde.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OSTEOPOROSIS</LocID>                                    <Text>Osteoporose</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_OSTEOPOROSIS_DESCRIPTION</LocID>                        <Text>Zustand von immer schwächer werdenden Knochen, der das Risiko einer Fraktur erhöht.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OSTEOPOROSIS_DESCRIPTION</LocID>                        <Text>Abnahme der Knochendichte</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OTALGIA</LocID>                                         <Text>Otalgie</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_OTALGIA_DESCRIPTION</LocID>                             <Text>Schwache bis schwere Ohrenschmerzen, die 1-2 Tage andauern.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_OTALGIA_DESCRIPTION</LocID>                             <Text>Schwache bis schwere Ohrenschmerzen.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OTORHINOLARYNGOLOGICAL_FINDINGS</LocID>                 <Text>ORL Befund</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_OTORHINOLARYNGOLOGICAL_FINDINGS_DESCRIPTION</LocID>     <Text>Auffälliger Oto-Rhino-Laryngologischer Befund.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_PAIN</LocID>                                            <Text>Schmerz</Text>  </GameDBLocalizedString>
@@ -486,8 +486,8 @@
             <GameDBLocalizedString>      <LocID>SYM_WARMTH_DESCRIPTION</LocID>                              <Text>Wärmeempfinden im betroffenen Bereich.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_WATERY_EYES</LocID>                                     <Text>Feuchte Augen</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_WATERY_EYES_DESCRIPTION</LocID>                         <Text>Andauernde oder übermäßige Tränenproduktion.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_WEAKNESS</LocID>                                        <Text>Schwäche</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_WEAKNESS_DESCRIPTION</LocID>                            <Text>Auch bekannt als Asthenie, ist ein Zustand extremer temporärer oder chronischer Schwäche und  Erschöpfung, Verlust von Energie und Stärke.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WEAKNESS</LocID>                                        <Text>Asthenie</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_WEAKNESS_DESCRIPTION</LocID>                            <Text>körperliche Schwäche und Erschöpfung</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_WEIGHT_GAIN</LocID>                                     <Text>Gewichtszunahme</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_WEIGHT_GAIN_DESCRIPTION</LocID>                         <Text>Zunahme an Körpergewicht aufgrund verschiedener Symptome, meist ohne erkennbaren oder bekannten Grund.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_WEIGHT_LOSS</LocID>                                     <Text>Gewichtsverlust</Text>  </GameDBLocalizedString>
